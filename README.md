@@ -1,1 +1,3 @@
 # Password-Strength-Tester
+Password is undoubtedly the most critical aspect of security and the last line of defense in keeping one's personal information safe and secure. Just encrypting a password or any other form of cyber defense is not sufficient if the passwords to those security systems are weak. The password strength checker, which was used, is an online tool that allows a user to determine the strength of the passwords that a user intends to use. It analyzes the password for common dictionary words, and informs about the length, strength, and if it's one of the frequently used passwords. As part of this project, a few passwords for varied strengths were checked. The results were analyzed to understand the effectiveness or length and complexity.
+
